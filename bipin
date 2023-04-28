@@ -392,24 +392,45 @@ logo = ("""\033[97;1m
        
  
 
-BBBB  III PPPP  III N   N 
-B   B  I  P   P  I  NN  N 
-BBBB   I  PPPP   I  N N N 
-B   B  I  P      I  N  NN 
-BBBB  III P     III N   N 
-                          
-                          
+
+          
+                                                                                    
+                                                                                    
+BBBBBBBBBBBBBBBBB   IIIIIIIIIIPPPPPPPPPPPPPPPPP   IIIIIIIIIINNNNNNNN        NNNNNNNN
+B::::::::::::::::B  I::::::::IP::::::::::::::::P  I::::::::IN:::::::N       N::::::N
+B::::::BBBBBB:::::B I::::::::IP::::::PPPPPP:::::P I::::::::IN::::::::N      N::::::N
+BB:::::B     B:::::BII::::::IIPP:::::P     P:::::PII::::::IIN:::::::::N     N::::::N
+  B::::B     B:::::B  I::::I    P::::P     P:::::P  I::::I  N::::::::::N    N::::::N
+  B::::B     B:::::B  I::::I    P::::P     P:::::P  I::::I  N:::::::::::N   N::::::N
+  B::::BBBBBB:::::B   I::::I    P::::PPPPPP:::::P   I::::I  N:::::::N::::N  N::::::N
+  B:::::::::::::BB    I::::I    P:::::::::::::PP    I::::I  N::::::N N::::N N::::::N
+  B::::BBBBBB:::::B   I::::I    P::::PPPPPPPPP      I::::I  N::::::N  N::::N:::::::N
+  B::::B     B:::::B  I::::I    P::::P              I::::I  N::::::N   N:::::::::::N
+  B::::B     B:::::B  I::::I    P::::P              I::::I  N::::::N    N::::::::::N
+  B::::B     B:::::B  I::::I    P::::P              I::::I  N::::::N     N:::::::::N
+BB:::::BBBBBB::::::BII::::::IIPP::::::PP          II::::::IIN::::::N      N::::::::N
+B:::::::::::::::::B I::::::::IP::::::::P          I::::::::IN::::::N       N:::::::N
+B::::::::::::::::B  I::::::::IP::::::::P          I::::::::IN::::::N        N::::::N
+BBBBBBBBBBBBBBBBB   IIIIIIIIIIPPPPPPPPPP          IIIIIIIIIINNNNNNNN         NNNNNNN
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                
 
                                      
 
-                                               
-        MOST WANTED CYBER CRIMINAL
+                                    
+        MOST WANTED CYBER CRIMINAL(Bipin Don)
 
   :::::::::::::::::::::::::::::::::::::::::::::::::::::
-  *  Owner    :  RATEY BRAND
- 
+  *  Owner    :  BIPIN DON
+
   *  Github   :  https://github.com/LADO
-  *  Facebook :  https://www.facebook.com/ABEY
+  *  Facebook :  https://www.facebook.com/profile.php?id=100057185057447
                  VAE DECOMPILE HANES VANE GAYES
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::\033[1;37m""")
 
@@ -424,8 +445,11 @@ class Main:
 		print("\n [1] File Cloning     *BEST")
 		print(" [2] Public Cloning   *WORKING")
 		print(" [3] Create File      *WORKING")
-		print(" [4] 2009 Cloning     *RECOMMEND")
+		print(" [4] 2009 Cloning  
+		
 		print(" [5] 2011 Cloning")
+		
+		
 		print(" [0] Exit \n")
 		GHOLE =input(" Select an option : ")
 		if GHOLE in ["1", "01"]:
